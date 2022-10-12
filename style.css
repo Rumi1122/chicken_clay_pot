@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.first{
+    color: red;
+    margin: 20px 20px;
+    font-family: fantasy;
+    letter-spacing: normal;
+}
+.second{
+    width: 40%;
+}
+.third{
+    margin: 20px 20px;
+    font-family: fantasy;
+}
